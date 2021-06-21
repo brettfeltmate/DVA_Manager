@@ -1,8 +1,8 @@
-#DVA Manager
+# DVA Manager
 Developed by Brett Feltmate and Jon Mulle; 2020
 
 
-###Computes pixel value corresponding to one degree of visual angle.
+### Computes pixel value corresponding to one degree of visual angle.
 
 _Note: This was designed for use w/ jsPsych, and scaling is applied to their wrapper class. Changing line 330 (as of writing) to target your wrapper will fix this._
 
